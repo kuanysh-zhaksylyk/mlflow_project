@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kuanysh/PycharmProjects/mlflow_project1/mlruns/155624969023789732/10b1f9be1a404ad09b038ccd18b80867/artifacts
+end_time: 1710158385339
+entry_point_name: ''
+experiment_id: '155624969023789732'
+lifecycle_stage: active
+run_id: 10b1f9be1a404ad09b038ccd18b80867
+run_name: run3.1
+run_uuid: 10b1f9be1a404ad09b038ccd18b80867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710158384366
+status: 3
+tags: []
+user_id: kuanysh

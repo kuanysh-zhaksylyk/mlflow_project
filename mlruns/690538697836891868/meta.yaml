@@ -1,0 +1,6 @@
+artifact_location: file:///home/kuanysh/PycharmProjects/mlflow_project1/mlruns/690538697836891868
+creation_time: 1710158443423
+experiment_id: '690538697836891868'
+last_update_time: 1710158443423
+lifecycle_stage: active
+name: experiment_autolog

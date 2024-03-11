@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kuanysh/PycharmProjects/mlflow_project1/mlruns/701125081194558790/144e13274b98439c82a1dd9f5abe51a4/artifacts
+end_time: 1709634161980
+entry_point_name: ''
+experiment_id: '701125081194558790'
+lifecycle_stage: active
+run_id: 144e13274b98439c82a1dd9f5abe51a4
+run_name: fortunate-mouse-140
+run_uuid: 144e13274b98439c82a1dd9f5abe51a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709634160617
+status: 3
+tags: []
+user_id: kuanysh

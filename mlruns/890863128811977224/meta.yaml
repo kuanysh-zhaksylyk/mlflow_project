@@ -1,0 +1,6 @@
+artifact_location: file:///home/kuanysh/PycharmProjects/mlflow_project1/mlruns/890863128811977224
+creation_time: 1710155478082
+experiment_id: '890863128811977224'
+last_update_time: 1710155478082
+lifecycle_stage: active
+name: exp_multi_Lasso

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kuanysh/PycharmProjects/mlflow_project1/mlruns/141759436079483613/f2e1898b48be470086c13a8d3a3e7515/artifacts
+end_time: 1709626641286
+entry_point_name: ''
+experiment_id: '141759436079483613'
+lifecycle_stage: active
+run_id: f2e1898b48be470086c13a8d3a3e7515
+run_name: delightful-elk-93
+run_uuid: f2e1898b48be470086c13a8d3a3e7515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709626639832
+status: 3
+tags: []
+user_id: kuanysh

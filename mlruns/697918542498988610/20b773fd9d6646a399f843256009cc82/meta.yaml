@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kuanysh/PycharmProjects/mlflow_project1/mlruns/697918542498988610/20b773fd9d6646a399f843256009cc82/artifacts
+end_time: 1709641070504
+entry_point_name: ''
+experiment_id: '697918542498988610'
+lifecycle_stage: active
+run_id: 20b773fd9d6646a399f843256009cc82
+run_name: welcoming-horse-66
+run_uuid: 20b773fd9d6646a399f843256009cc82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709641069174
+status: 3
+tags: []
+user_id: kuanysh

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kuanysh/PycharmProjects/mlflow_project1/mlruns/690538697836891868/328fec9bdaf34a0d8236a09c84d41559/artifacts
+end_time: 1710158469961
+entry_point_name: ''
+experiment_id: '690538697836891868'
+lifecycle_stage: active
+run_id: 328fec9bdaf34a0d8236a09c84d41559
+run_name: omniscient-rook-840
+run_uuid: 328fec9bdaf34a0d8236a09c84d41559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710158468415
+status: 3
+tags: []
+user_id: kuanysh

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kuanysh/PycharmProjects/mlflow_project1/mlruns/701125081194558790/d66faef5c00548e8bbddf1bedf8d6af5/artifacts
+end_time: 1709639629714
+entry_point_name: ''
+experiment_id: '701125081194558790'
+lifecycle_stage: active
+run_id: d66faef5c00548e8bbddf1bedf8d6af5
+run_name: enchanting-asp-433
+run_uuid: d66faef5c00548e8bbddf1bedf8d6af5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709639628286
+status: 3
+tags: []
+user_id: kuanysh

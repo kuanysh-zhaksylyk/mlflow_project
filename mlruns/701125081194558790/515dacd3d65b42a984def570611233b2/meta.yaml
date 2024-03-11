@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kuanysh/PycharmProjects/mlflow_project1/mlruns/701125081194558790/515dacd3d65b42a984def570611233b2/artifacts
+end_time: 1709639546482
+entry_point_name: ''
+experiment_id: '701125081194558790'
+lifecycle_stage: active
+run_id: 515dacd3d65b42a984def570611233b2
+run_name: trusting-whale-120
+run_uuid: 515dacd3d65b42a984def570611233b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709639544645
+status: 3
+tags: []
+user_id: kuanysh

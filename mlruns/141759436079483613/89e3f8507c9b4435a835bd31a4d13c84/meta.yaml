@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kuanysh/PycharmProjects/mlflow_project1/mlruns/141759436079483613/89e3f8507c9b4435a835bd31a4d13c84/artifacts
+end_time: 1709628738706
+entry_point_name: ''
+experiment_id: '141759436079483613'
+lifecycle_stage: active
+run_id: 89e3f8507c9b4435a835bd31a4d13c84
+run_name: awesome-penguin-609
+run_uuid: 89e3f8507c9b4435a835bd31a4d13c84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709628737210
+status: 3
+tags: []
+user_id: kuanysh

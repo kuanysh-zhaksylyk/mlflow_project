@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kuanysh/PycharmProjects/mlflow_project1/mlruns/697918542498988610/9b93bf1e6849445fa06691596d92798e/artifacts
+end_time: 1709640514355
+entry_point_name: ''
+experiment_id: '697918542498988610'
+lifecycle_stage: active
+run_id: 9b93bf1e6849445fa06691596d92798e
+run_name: charming-crane-461
+run_uuid: 9b93bf1e6849445fa06691596d92798e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709640512745
+status: 3
+tags: []
+user_id: kuanysh

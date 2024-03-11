@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kuanysh/PycharmProjects/mlflow_project1/mlruns/701125081194558790/d929decead2f4f678d792bb76fadcfcc/artifacts
+end_time: 1709638475755
+entry_point_name: ''
+experiment_id: '701125081194558790'
+lifecycle_stage: active
+run_id: d929decead2f4f678d792bb76fadcfcc
+run_name: ambitious-smelt-985
+run_uuid: d929decead2f4f678d792bb76fadcfcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709638474383
+status: 3
+tags: []
+user_id: kuanysh
